@@ -1,3 +1,9 @@
+安装docker时，需要设置OpenSsL
+https://blog.csdn.net/m0_51354361/article/details/145616232
+
+docker镜像设置
+https://github.com/tech-shrimp/docker_installer
+
 ## 1.通过项目中dockerfile文件，构建项目镜像 
 
 ```bash
